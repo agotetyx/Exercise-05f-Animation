@@ -37,4 +37,4 @@ current = true
 transform = Transform( 2.5, 0, 0, 0, 2.5, 0, 0, 0, 2.5, -8, 0, 0 )
 
 [node name="RagDoll" parent="." instance=ExtResource( 4 )]
-transform = Transform( 0.314108, 0, 0.949387, 0, 1, 0, -0.949387, 0, 0.314108, 0, 5.8249, 0 )
+transform = Transform( 0.314108, 0, 0.949387, 0, 1, 0, -0.949387, 0, 0.314108, 0.362707, 5.8249, -6.30972 )
